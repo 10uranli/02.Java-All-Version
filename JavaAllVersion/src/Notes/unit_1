@@ -1,0 +1,24 @@
+		/*
+		 * Lamda ile fonksiyonel programlama yapýlýr, az ve okunur kod yazýlabilir.Kütüphane ve kolay kullanýlabilir api desteði
+		 * *********Fonksiyonel Programlama && Nesne Yönelimli Programlama********
+		 * FP ile yapýlan NYP ile yapýlýr fakat daha okunur ve bakýmý kolay kodlar için FP seçilmelidir.
+		 * NYP Yani OOP de her þey obje,class,iliþki ye baðlýdýr.
+		 * Sýradan düzgün, nesne yönelimli bir kod yazalým.Ýnterface, class ile uðraþacaðýz.
+		 * 
+		 * */
+		 
+		 
+		 
+		 
+		 	/*
+		 * Aslýnda 
+		 * public void other(){
+		 * 
+		 * }
+		 *  gibi ama bazý kolaylýklar var
+		 * public void other --> bu kýsýmý yazmayýp parametre alýnacak () kýsmý yazýp araya -> ile sen lambdasýn demeliyiz.
+		 * {} --> tek satýrsa bunu da kullanmak zorunda deðiliz.
+		 * yani tüm iþimizi (int a, vs.. paramete) -> xx ile yapabiliriz.
+		 * adýný da yazmak zorunda deðiliz ama interfaceye birden fazla method koyarsak compile kafasý karýsýr.Hata verir
+		 * */
+		
