@@ -36,6 +36,7 @@ public class _02ExecuteClass {
         }
     }
 
+
     public interface Talk{
         public void sayHi(String a);
     }

@@ -40,6 +40,12 @@ public class _01ExecuteClass {
 		 * 
 		 */
 
+		System.out.println("Farklý bir lambda kullanýmý");
+		ILambda withLambdaOtherWay = () -> {
+			System.out.println("hav..");
+		};
+		withLambda.other();;
+
 	}
 
 	@FunctionalInterface

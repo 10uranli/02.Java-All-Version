@@ -2,7 +2,7 @@ package java8.unit_4;
 
 import java.util.function.BiConsumer;
 
-public class ExcepcionMain {
+public class ExceptionMain {
 
 	public static void main(String[] args) {
 
