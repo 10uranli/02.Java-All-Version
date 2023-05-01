@@ -1,11 +1,10 @@
-package unit_3;
+package java8.unit_3;
 
 import java.util.Arrays;
 import java.util.Collections;
 import java.util.Comparator;
 import java.util.List;
 
-import org.apache.poi.hssf.record.formula.functions.T;
 
 public class Example {
 

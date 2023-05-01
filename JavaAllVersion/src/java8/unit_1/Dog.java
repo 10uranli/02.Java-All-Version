@@ -1,4 +1,4 @@
-package java.all.java8.unit1;
+package java8.unit_1;
 
 public class Dog implements IAnimal{
 

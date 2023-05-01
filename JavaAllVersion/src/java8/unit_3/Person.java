@@ -1,4 +1,4 @@
-package unit_3;
+package java8.unit_3;
 
 public class Person {
 
