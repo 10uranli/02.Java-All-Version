@@ -1,0 +1,16 @@
+****Methodları referans olarak verebiliyoruz.
+    forEach(System.out::println) // :: --> method ref yontemi.
+
+Static methodlar, Obje method, Constructor kullanan yeni operatorler.
+
+
+Functional Interface
+** Sergileyebilmek için tek bir özellik
+**Örneğin Comparable interface compateTo olarak karşılaştırma yapmak için tek methoda sahip.
+**Java8 de hazır çok fazla kullanıma açık fonksiyonel interfaceler vardır. Örneğin math gibi bir interface ile add, sub işlemleri yapmak yerine
+**2 parametreli ve return değeri olan interfaceler seçilebilir.
+
+https://www.tutorialspoint.com/java8/java8_functional_interfaces.htm
+Given below is the list of interfaces in Java8.
+
+//Konu Anlatımında FunctionalInterface icin ayri bir execute daha var.

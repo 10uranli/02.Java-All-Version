@@ -1,0 +1,6 @@
+***Yeni Özellikler***
+Lambda Expression  ** parametre -> ifade
+Method References  ** methodlar referans olarak verilebilir.
+Interface Default Method
+Stream
+Optional           ** null hatası önüne geçilebilmesi için yeni yöntemler.
