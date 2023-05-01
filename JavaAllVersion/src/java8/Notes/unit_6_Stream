@@ -1,1 +1,8 @@
 Verileri toplu kullanmak için yöntemler sunar.
+Stream --> Veri akarsudan akan su gibi akar :) Veri bir havuzda gibi hayal edilebilir.
+filter --> Akan veriyi filtreleme. x>2 sadece 2 den büyükler akar.
+map -->data manipilasyon. x -> x*2 data 2 ile çarpılarak akar.
+sorted --> sıralama
+paralelStream --> paralel stream döner.
+limit --> akan datayı verilen limit ile sınırlandırabiliriz.
+Collectors --> list ve string dönen, collect vs ile datayı toplayıcı yöntem.

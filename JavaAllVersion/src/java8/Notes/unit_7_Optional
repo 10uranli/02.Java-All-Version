@@ -1,0 +1,5 @@
+Optional --> Veriyi Optional objesiyle sarmallar.
+**Bu sayede null pointer hatasının önüne geçeriz.
+Optional.ofNullable --> ilgili değeri sarmallayan fonksiyonu sağlar.
+isPresent --> nullsa Empty olarak işaretlenmiş datanın varlığını sorgulayarak boolean cevap döner.
+ifPresent --> varlığını sorgulayarak datanın sonraki adımda alınacak aksiyonu uygulayabiliriz.
