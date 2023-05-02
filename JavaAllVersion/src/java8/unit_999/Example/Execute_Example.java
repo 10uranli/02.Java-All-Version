@@ -10,7 +10,7 @@ public class Execute_Example {
     static UtilObjects  util = new UtilObjects();
     public static void main(String[] args) {
 
-
+        /******1******/
         Integer Euro = 21;
         System.out.println("Arabaları iceren bir listede en yüksek degerli aracı bulup, " +
                 "kur farkı ile degeri çarpıp, 12 aylık ödemede aylık ödemeyi getiren örnek kod.");
@@ -20,6 +20,11 @@ public class Execute_Example {
         System.out.println(aylikTLTutar);
         //Collections.sort(personList2, (o1, o2) -> o1.getSurname().compareTo(o2.getSurname()));
 
+        /******2******/
+        List<Integer> integerList = util.getIntegerList();
+
+        //10 ile çarpıp, ilk degeri alıp, optional degerin valuesunu getiren operasyon.
+        System.out.println(integerList.stream().map(e -> e*10).findFirst().get());
     }
 
 
