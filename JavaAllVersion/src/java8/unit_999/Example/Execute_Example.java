@@ -25,6 +25,13 @@ public class Execute_Example {
 
         //10 ile çarpıp, ilk degeri alıp, optional degerin valuesunu getiren operasyon.
         System.out.println(integerList.stream().map(e -> e*10).findFirst().get());
+
+
+        /*****3*****/
+        System.out.println( integerList.stream().allMatch(e -> e.equals(3))); //false, butun datalar kontrolu\ hepsi saglarsa/
+        System.out.println( integerList.stream().anyMatch(e -> e.equals(3))); //true, bir tanesi saglarsa true
+
+
     }
 
 
