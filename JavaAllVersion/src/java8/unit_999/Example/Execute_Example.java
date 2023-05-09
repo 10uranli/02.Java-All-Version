@@ -38,7 +38,7 @@ public class Execute_Example {
         build.forEach(System.out :: print);
 
 
-        /*deneme commit*/
+        /*deneme commit */
     }
 
 
