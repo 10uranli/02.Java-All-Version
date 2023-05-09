@@ -5,6 +5,7 @@ import java.util.Collections;
 import java.util.List;
 import java.util.Optional;
 import java.util.stream.Collectors;
+import java.util.stream.Stream;
 
 public class Execute_Example {
     static UtilObjects  util = new UtilObjects();
@@ -31,6 +32,10 @@ public class Execute_Example {
         System.out.println( integerList.stream().allMatch(e -> e.equals(3))); //false, butun datalar kontrolu\ hepsi saglarsa/
         System.out.println( integerList.stream().anyMatch(e -> e.equals(3))); //true, bir tanesi saglarsa true
 
+
+        /****Stream Builder****/
+        Stream<String> build = Stream.<String>builder().add("deneme").add("deneme2").build();
+        build.forEach(System.out :: print);
 
     }
 

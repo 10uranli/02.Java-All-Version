@@ -8,7 +8,10 @@
     </option>
   </component>
   <component name="ProjectPlainTextFileTypeManager">
-    <file url="file://$PROJECT_DIR$/src/java8/Notes/unit_1" />
+    <file url="file://$PROJECT_DIR$/src/java8/Notes/unit_1_usingLambda" />
+    <file url="file://$PROJECT_DIR$/src/java8/Notes/unit_3_FunctionalInterface_MethodReferance" />
+    <file url="file://$PROJECT_DIR$/src/java8/Notes/unit_6_Stream" />
+    <file url="file://$PROJECT_DIR$/src/java8/Notes/unit_7_Optional" />
   </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="11" project-jdk-type="JavaSDK" />
 </project>
