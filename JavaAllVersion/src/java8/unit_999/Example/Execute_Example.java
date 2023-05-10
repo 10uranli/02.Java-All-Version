@@ -36,7 +36,7 @@ public class Execute_Example {
         /****Stream Builder****/
         Stream<String> build = Stream.<String>builder().add("deneme").add("deneme2").build();
         build.forEach(System.out :: print);
-
+ 
 
         /*deneme commit */
     }
