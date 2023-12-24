@@ -1,9 +1,5 @@
 package java16.unit_1;
 
-import lombok.AllArgsConstructor;
-import lombok.Data;
-import lombok.NoArgsConstructor;
-
 public non-sealed class Customer extends Person {
 
     public Customer(String name, int age) {
