@@ -1,0 +1,3 @@
+*bazi classlar value based olarak calisir.
+*bu siniflar ValueBased anatosyonuna sahiptir
+*synchronized kullanildiginda derleme zamani uyarilar uretilmekte
