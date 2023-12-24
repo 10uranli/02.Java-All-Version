@@ -1,7 +1,5 @@
 package java21.unit_1;
 
-import java8.unit_1.Dog;
-import java8.unit_1.IAnimal;
 
 import java.util.Date;
 
