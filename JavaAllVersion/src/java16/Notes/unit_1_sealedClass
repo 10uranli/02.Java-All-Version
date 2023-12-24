@@ -1,0 +1,7 @@
+*Preview modda bir kac yeni ozellik bulunuyor.
+*non lts
+*sealed class java 15 ile preview olarak tanitildi.Minor degisiklikler eklendi ve preview olarak devam ettirildi.
+*sealed keyword
+*permits keywordu ile kalitim kontrolu
+*Sealed class extend ediliyorsa sealed, sealed,non-sealed,final olmalisin
+*
