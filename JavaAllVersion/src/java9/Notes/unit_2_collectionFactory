@@ -1,0 +1,3 @@
+*Immutable objeler icin List, set, map icin yeni method eklendi
+*unmodifiableList ile degisemez liste olusturulur
+*Yeni collection uretim yontemleri
