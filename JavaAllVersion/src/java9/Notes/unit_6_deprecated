@@ -1,0 +1,5 @@
+*java 5 ile geldi
+*deprecated hataya sebep olabilecek kullanimlarda, ileriki surumlerde uyumsuz, ileride kaldirilabilir, daha gelismis
+bir yontem var.
+*Derleyici deprecated oyede uyari uretir.
+*Java 9 ile 2 yeni gelistirme forRemoval -- silinmesi dusunuluyor mu , default false. since -- ne zaman deprecated
