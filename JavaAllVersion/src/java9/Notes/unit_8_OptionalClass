@@ -1,0 +1,2 @@
+*Null checkleri engellemek icin java8 ile optionallar hayatimiza girdi. java9 ile 3 yeni ozellik
+*stream, ifPresentOrElse, or
