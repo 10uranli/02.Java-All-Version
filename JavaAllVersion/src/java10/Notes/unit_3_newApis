@@ -1,0 +1,6 @@
+*70 uzeri api
+*https://www.oracle.com/java/technologies/javase/10-relnote-issues.html
+*Optional.orElseThrow get() icin alternatif. Get benzeri bulamazsa exception
+*copyOf unmodifiable copy doner collectionlar icin
+* toUnmodifiableList(), toUnmodifiableSet(), and toUnmodifiableMap()
+*javadoc cok fazla Stylesheets destekliyor.Overridding methods,summary
