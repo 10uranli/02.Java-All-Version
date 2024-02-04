@@ -1,0 +1,14 @@
+*https://www.oracle.com/java/technologies/javase/10-relnote-issues.html
+*java.security, SNMP Monitoring
+*Marked for removal
+java.activation java.corba java.se.ee (aggregator)
+java.transaction
+java.xml.bind
+java.xml.ws
+java.xml.ws.annotation
+
+*JIT
+used to convert Java into Byte Code.
+Graal to be used instead of standard JIT compiler
+jit c++ ile Graal java ile yazilmis
+*GC de guncellemeler

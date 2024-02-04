@@ -1,0 +1,13 @@
+*guncellenen apiler
+java.text.DateFormat::get*Instance
+java.text.DateFormatSymbols::getInstance
+java.text.DecimalFormatSymbols::getInstance
+java.text.NumberFormat::get*Instance
+java.time.format.DateTimeFormatter::localizedBy
+java.time.format.DateTimeFormatterBuilder::getLocalizedDateTimePattern
+java.time.format.DecimalStyle::of
+java.time.temporal.WeekFields::of
+java.util.Calendar::{getFirstDayOfWeek,getMinimalDaysInWeek}
+java.util.Currency::getInstance
+java.util.Locale::getDisplayName
+java.util.spi.LocaleNameProvider
