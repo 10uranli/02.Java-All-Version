@@ -1,0 +1,4 @@
+*repeat : verilen sayı kadar stringi tekrarlar
+*strip : baştaki ve sondaki boslukları siler , leading olan bastakini sadece, trailing olan sondakini sadece
+*lines: Stringteki çoklu satırları döner
+*isBlank boş veya white spaceli ise true
